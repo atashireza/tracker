@@ -1,7 +1,1 @@
 streamlit
-pandas
-folium
-streamlit-folium
-streamlit-js-eval
-pyproj
-ezdxf
