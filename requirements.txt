@@ -1,7 +1,7 @@
-streamlit==1.40.1
-pandas==2.2.3
-folium==0.18.0
-streamlit-folium==0.23.0
-streamlit-js-eval==0.1.7
-pyproj==3.7.0
-ezdxf==1.4.0
+streamlit
+pandas
+folium
+streamlit-folium
+streamlit-js-eval
+pyproj
+ezdxf
